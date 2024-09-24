@@ -1,0 +1,5 @@
+{
+    "excluded_dirs": ["dist", "build", ".vpt_modules"],
+    "excluded_files": ["LICENSE", "README.md"],
+    "skip_types": [".log", ".env"]
+}
