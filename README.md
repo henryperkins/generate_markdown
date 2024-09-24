@@ -1,7 +1,3 @@
-Certainly! Below is the **fully updated README** for your **Automated Documentation Generator** script. This version incorporates the latest enhancements, corrections, and structural changes based on your revised script and the suggestions provided.
-
----
-
 # Automated Documentation Generator
 
 ## 📄 Overview
